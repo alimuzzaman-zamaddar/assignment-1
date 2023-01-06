@@ -146,7 +146,7 @@ main{
     background-image: linear-gradient(to right, #005fac, transparent), url(../images/watch.png);
     max-width: 100%;
     border-radius: 10px;
-
+    height: 302px;
 }
 .contact-text{
   width: 45%;
